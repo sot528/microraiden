@@ -3,7 +3,6 @@
 Smart Contracts, Unittests and Infrastructure for RaidenPaymentChannel Smart Contracts.
 
 
- * [Contract Addresses](#contract-addresses)
  * [Installation](#installation)
    - [Prerequisites](#prerequisites)
    - [Usage](#usage)
@@ -12,7 +11,7 @@ Smart Contracts, Unittests and Infrastructure for RaidenPaymentChannel Smart Con
  * [API](#api)
    - [Opening a transfer channel](#opening-a-transfer-channel)
    - [Topping up a channel](#topping-up-a-channel)
-   - [Generating and validating a transfer](#generating-and-validating-a-transfer)
+   - [Generating and validating a balance proof](#generating-and-validating-a-balance-proof)
    - [Generating and validating a closing agreement](#generating-and-validating-a-closing-agreement)
    - [Closing a channel](#closing-a-channel)
 
